@@ -1,5 +1,5 @@
 # Convent San Tanco
-Convent San Tanco is an unofficial [The Flying Nun](https://en.wikipedia.org/wiki/The_Flying_Nun) fan site that was launched on April 3rd, 2025.
+Convent San Tanco is an unofficial [The Flying Nun](https://en.wikipedia.org/wiki/The_Flying_Nun) fansite that was launched on April 3rd, 2025.
 
 ---
 ### Fair Use Disclaimer:
